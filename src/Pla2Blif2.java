@@ -3,7 +3,6 @@ import java.util.*;
 
 /**
  * Kevin Nguyen
- * TCSS 499 
  * Converts .pla files to .blif files
  * Requires .all pla files to be in a folder named 'pla'
  * Generates .blif files into a folder named 'blif' 

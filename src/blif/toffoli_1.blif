@@ -1,20 +1,20 @@
 # Kevin
-.model 3_17_6
+.model toffoli_1
 .inputs i1 i2 i3
 .outputs o1 o2 o3
 .names i1 i2 i3 o1
-000 1
-100 1
-110 1
-111 1
-.names i1 i2 i3 o2
-000 1
 011 1
+100 1
 101 1
 110 1
-.names i1 i2 i3 o3
-000 1
+.names i1 i2 i3 o2
 010 1
 011 1
+110 1
+111 1
+.names i1 i2 i3 o3
+001 1
+011 1
+101 1
 111 1
 .end
